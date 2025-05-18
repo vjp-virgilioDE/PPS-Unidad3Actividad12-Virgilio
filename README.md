@@ -807,7 +807,7 @@ $conn->close();
 ✔  Fácil de extender a SMS o aplicaciones como Google Authenticator.
 
 
-## ![ENTREGA](#entrega)
+## ![ENTREGA](Entrega.md)
 
 > __Realiza las operaciones indicadas__
 
